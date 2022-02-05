@@ -4,7 +4,7 @@ It was built step-by-step following JavaScript Mastery YouTube tutorial: https:/
 
 The goal of this project was to learn how to think in React, get familiar with React concepts and practice writing JSX.
 
-![](public/screenshot.jpg)
+![Screenshot](public/screenshot.jpg)
 
 Live Site URL: https://ciaochatapp.netlify.app <br/>
 Username: admin <br/>
