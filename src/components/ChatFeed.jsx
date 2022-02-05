@@ -30,10 +30,10 @@ const isMyMessage = userName === message.sender.username;
 
 return (
     <div key={`msg_${index}`} style={{ width: '100%' }}>
-<div className="messag-block">
+<div className="message-block">
 {
     isMyMessage
-    ? <MyMessage message={message}/>
+    ? <MyMessage message={message} />
     : <TheirMessage message={message} lastMessage={messages[lastMessageKey]} />
 }
 </div>
@@ -62,7 +62,7 @@ return(
 
         <div style={{ height: '100px'}} />
         <div className="message-form-container">
-<MessageForm { ... props} chatId={activeChat} />
+<MessageForm {...props} chatId={activeChat} />
 
         </div>
     </div>

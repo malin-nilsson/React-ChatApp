@@ -1,4 +1,4 @@
-const TheirMessage = ( { lastMessage, message}) => {
+const TheirMessage = ( { lastMessage, message } ) => {
     const isFirstMessageByUser = !lastMessage || lastMessage.sender.username !== message.sender.username;
 
     
@@ -12,7 +12,8 @@ const TheirMessage = ( { lastMessage, message}) => {
             )}
             {message?.attachments?.length > 0 
                 ? (
-                    <img src="{message.attachments[0].file}" 
+                    <img 
+                    src={message.attachments[0].file}
                     alt="message-attachment"
                     className="message-image"
                     style={{ marginLeft: isFirstMessageByUser ? '4px' : '48px'}} 
