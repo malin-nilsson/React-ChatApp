@@ -6,8 +6,8 @@ The goal of this project was to learn how to think in React, get familiar with R
 
 ![](public/screenshot.jpg)
 
-Live Site URL: https://ciaochatapp.netlify.app
-Username: admin
+Live Site URL: https://ciaochatapp.netlify.app. 
+Username: admin. 
 Password: 123123
 
 ## Built with
