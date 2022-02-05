@@ -1,6 +1,6 @@
 # Ciao - React Chat App
 This is a Microsoft Teams clone built with React JS and Chat Engine. 
-It was built step-by-step following JavaScript Mastery YouTube tutorial: https://youtu.be/jcOKU9f86XE
+It was built following JavaScript Mastery's step-by-step YouTube tutorial: https://youtu.be/jcOKU9f86XE
 
 The goal of this project was to learn how to think in React, get familiar with React concepts and practice writing JSX.
 
