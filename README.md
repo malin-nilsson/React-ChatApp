@@ -4,11 +4,11 @@ It was built following JavaScript Mastery's step-by-step YouTube tutorial: https
 
 My goal with this project was to learn how to think in React, get familiar with React concepts and practice writing JSX.
 
-![Screenshot](public/screenshot-chatapp.jpg)
-
 Live Site URL: https://ciao-chatapp.netlify.app <br/>
 Username: admin <br/>
 Password: 123123
+
+![Screenshot](public/screenshot-chatapp.jpg)
 
 ## Built with
 - HTML & CSS
