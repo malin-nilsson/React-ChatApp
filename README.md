@@ -8,7 +8,7 @@ Live Site URL: https://ciao-chatapp.netlify.app <br/>
 Username: admin <br/>
 Password: 123123
 
-![Screenshot](public/screenshot-chatapp.jpg)
+![Screenshot](public/screenshot.jpg)
 
 ## Built with
 - HTML & CSS
